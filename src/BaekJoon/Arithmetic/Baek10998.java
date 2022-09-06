@@ -1,4 +1,4 @@
-package BaekJoon.BruteForcing.BaekJoon.Arithmetic;
+package BaekJoon.Arithmetic;
 
 import java.util.Scanner;
 
