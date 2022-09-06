@@ -7,7 +7,7 @@
 // 20 31 42 53 64 75 86 97
 // 101 103 105 107 109 120 100 0 1
 
-package BakeJoon.BruteForcing;
+package BaekJoon.BruteForcing;
 
 import java.util.ArrayList;
 import java.util.List;
