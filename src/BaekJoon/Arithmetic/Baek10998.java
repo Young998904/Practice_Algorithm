@@ -9,4 +9,3 @@ public class Baek10998 {
         System.out.println(sc.nextInt() * sc.nextInt());
     }
 }
-
