@@ -1,4 +1,4 @@
-package BaekJoon.BruteForcing;
+package BaekJoon.Step.BruteForcing;
 
 import java.util.ArrayList;
 import java.util.Comparator;
